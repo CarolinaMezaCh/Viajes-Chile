@@ -1,0 +1,34 @@
+body {
+    font-family: "Raleway", sans-serif;
+    color: #fff;
+  }
+  
+  h4 {
+    text-transform: uppercase;
+  }
+  
+  .bg-black {
+    background-color: black;
+  }
+  
+  .card img {
+    max-height: 150px;
+  }
+  
+  .carousel-item img {
+    max-height: 100vh;
+  }
+
+
+  .card-title {
+    color: white;
+  }
+  
+  .card-text {
+    color: white;
+  }
+
+  .nav-black {
+    background-color: black;
+    color: white;
+  }
